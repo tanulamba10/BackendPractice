@@ -1,0 +1,28 @@
+body {
+    margin-left: 20px;
+}
+
+.chat {
+    background-color: aliceblue;
+    border-radius: 16px;
+    display: inline-block;
+    padding: 10px;
+}
+
+.msg {
+    background-color: dodgerblue;
+    color: wheat;
+    padding: 1px 8px;
+    border-radius: 16px;
+}
+
+.edit-delete-btn {
+    margin-top: 5px;
+    background-color: aliceblue;
+    border-radius: 16px;
+    color: black;
+}
+
+form {
+    display: inline-block;
+}
